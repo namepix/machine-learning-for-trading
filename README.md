@@ -10,11 +10,31 @@ Stefan Jansen의 **[Machine Learning for Trading](https://github.com/stefan-jans
 * **교재**: Machine Learning for Trading (Stefan Jansen)
 * **원본 레포지토리**: [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
 
-## 📂 내용
-* 학습 완료 or 진행중인 상태의 챕터
-* 개인적인 학습 노트 및 주석
-* 데이터 파일 및 데이터 수집 코드 (Financial Data, MNIST, etc.)
-* 기타 환경설정 관련 파일들
+## 📚 학습 현황 (Learning Progress)
+- [x] 01. Machine Learning for Trading
+- [ ] 02. Market and Fundamental Data
+- [ ] 03. Alternative Data
+- [-] 04. Alpha Factor Research
+- [ ] 05. Strategy Evaluation
+- [ ] 06. Machine Learning Process
+- [ ] 07. Linear Models
+- [ ] 08. ML4T Workflow
+- [ ] 09. Time Series Models
+- [ ] 10. Bayesian Machine Learning
+- [ ] 11. Decision Trees & Random Forests
+- [ ] 12. Gradient Boosting Machines
+- [ ] 13. Unsupervised Learning
+- [ ] 14. Working with Text Data
+- [ ] 15. Topic Modeling
+- [ ] 16. Word Embeddings
+- [ ] 17. Deep Learning
+- [ ] 18. Convolutional Neural Nets
+- [ ] 19. Recurrent Neural Nets
+- [ ] 20. Autoencoders for Conditional Risk Factors
+- [ ] 21. GANs for Synthetic Time Series
+- [ ] 22. Deep Reinforcement Learning
+- [ ] 23. Next Steps
+- [ ] 24. Alpha Factor Library
 
 
 ----------------------------------------------

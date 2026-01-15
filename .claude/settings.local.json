@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for dir in 08_ml4t_workflow 09_time_series_models 10_bayesian_machine_learning 11_decision_trees_random_forests 12_gradient_boosting_machines 13_unsupervised_learning 14_working_with_text_data)",
+      "Bash(do echo \"=== $dir ===\" ls -1 \"$dir\"/*.ipynb)",
+      "Bash(done)",
+      "Bash(for dir in 15_topic_modeling 16_word_embeddings 17_deep_learning 18_convolutional_neural_nets 19_recurrent_neural_nets 20_autoencoders_for_conditional_risk_factors 21_gans_for_synthetic_time_series 22_deep_reinforcement_learning 23_next_steps)"
+    ]
+  }
+}
