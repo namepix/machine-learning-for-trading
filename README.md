@@ -1,3 +1,24 @@
+# 📈 Machine Learning for Trading - Stefan Jansen
+
+Stefan Jansen의 **[Machine Learning for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)** 책을 공부하며 진행한 실습 코드와 학습 내용을 기록하는 레포지토리입니다.
+
+## 📝 소개
+알고리즘 트레이딩과 머신러닝 적용 방법을 학습하기 위해, 원본 실습 코드를 직접 실행하고 분석한 기록입니다.
+
+원본 레포지토리의 코드를 기반으로 실습을 진행하며, 필요에 따라 코드를 수정하거나 주석을 추가했습니다.
+
+* **교재**: Machine Learning for Trading (Stefan Jansen)
+* **원본 레포지토리**: [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
+
+## 📂 내용
+* 학습 완료 or 진행중인 상태의 챕터
+* 개인적인 학습 노트 및 주석
+* 데이터 파일 및 데이터 수집 코드 (Financial Data, MNIST, etc.)
+* 기타 환경설정 관련 파일들
+
+
+----------------------------------------------
+
 # ML for Trading - 2<sup>nd</sup> Edition
 
 This [book](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715?pf_rd_r=GZH2XZ35GB3BET09PCCA&pf_rd_p=c5b6893a-24f2-4a59-9d4b-aff5065c90ec&pd_rd_r=91a679c7-f069-4a6e-bdbb-a2b3f548f0c8&pd_rd_w=2B0Q0&pd_rd_wg=GMY5S&ref_=pd_gw_ci_mcx_mr_hp_d) aims to show how ML can add value to algorithmic trading strategies in a practical yet comprehensive way. It covers a broad range of ML techniques from linear regression to deep reinforcement learning and demonstrates how to build, backtest, and evaluate a trading strategy driven by model predictions.  

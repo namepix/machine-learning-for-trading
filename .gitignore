@@ -1,0 +1,8 @@
+# 데이터 파일 무시 (절대 올리면 안 됨)
+assets.h5
+wiki_prices.csv
+data/
+mnist/
+fashion_mnist/
+.ipynb_checkpoints/
+.venv/
