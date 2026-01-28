@@ -14,8 +14,8 @@ Stefan Jansen의 **[Machine Learning for Trading](https://github.com/stefan-jans
 - [x] 01. Machine Learning for Trading
 - [ ] 02. Market and Fundamental Data
 - [ ] 03. Alternative Data
-- [-] 04. Alpha Factor Research
-- [ ] 05. Strategy Evaluation
+- [x] 04. Alpha Factor Research
+- [-] 05. Strategy Evaluation
 - [ ] 06. Machine Learning Process
 - [ ] 07. Linear Models
 - [ ] 08. ML4T Workflow
